@@ -1,0 +1,11 @@
+node_modules/
+vendor/
+.env
+backend/database/database.sqlite
+backend/public/spa/
+backend/storage/*.key
+backend/storage/logs/*
+backend/bootstrap/cache/*
+!.gitkeep
+dist/
+.DS_Store
